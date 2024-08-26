@@ -1,0 +1,18 @@
+body{
+	background-image: url('../img/FONDO.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+form
+{
+	background-color: #EDEDED;
+	border-radius: .3em;
+	padding: 20px;
+	box-shadow: 11px 1px 35px 8px inset;
+	border: 3ps solid #73AD21;
+}
+.container{
+	width: 60rem;
+}

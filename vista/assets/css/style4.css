@@ -1,0 +1,22 @@
+body{
+	background:linear-gradient(#BC8F8F, #DA70D6, #BC8F8F);
+	
+}
+table{
+    border-collapse: collapse;
+	width: 100%;
+    border: 1px solid #ddd;
+}
+
+th,td{
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+
+}
+
+th{	
+	color:#800080;
+}
+
+

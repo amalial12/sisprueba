@@ -1,0 +1,38 @@
+
+/*section{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	
+	transform: translate(-50%,-50%);
+	background-image: url('vista/assets/img/galeria/planeta.jpg');
+	background-position: center;
+	background-size: cover;
+
+}*/
+form
+{
+	background-color: #EDEDED;
+	border-radius: .3em;
+	padding: 20px;
+	/*box-shadow: 11px 1px 35px 8px inset;*/
+	border: 3ps solid #73AD21;
+	box-shadow:0px 0px 15px 5px darkblue; 
+}
+
+button
+{
+   box-shadow:0px 0px 10px black, inset 0px 0px 5px black ;
+	
+}
+a
+{box-shadow:0px 0px 10px black, inset 0px 0px 5px black ;}
+label
+{ font:16px 'Cascadia Code SemiBold'; 
+
+}
+h3
+{font:30px 'Castellar'; 
+	text-shadow:0px 0px 3px white;
+	font-weight:bold; 
+}
